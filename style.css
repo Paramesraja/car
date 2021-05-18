@@ -4,7 +4,7 @@
 }
 
 header {
-    background-image: url("rc\ car.jpg");
+    background-image: url("car\ .png");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -68,7 +68,7 @@ header {
 }
 
 h1{
-    color:honeydew;
+    color:whitesmoke;
     font-size: 50px;
     text-align: center;
     margin-top: 275px;
